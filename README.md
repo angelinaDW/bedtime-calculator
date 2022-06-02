@@ -1,4 +1,3 @@
-# When u should go to bed
+# Bedtime Calculator
 
-A Pen created on CodePen.io. Original URL: [https://codepen.io/angelinadw/pen/vYdjvLv](https://codepen.io/angelinadw/pen/vYdjvLv).
-
+A quick little site that lets you input the time you would like to get up at, and the amount of sleep you get, and automatically calculates when you should sleep based on those preferences.
